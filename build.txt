@@ -1,0 +1,3 @@
+displayName = Royal Gel In Inventory
+author = TacoConKvass
+version = 1.0.0
